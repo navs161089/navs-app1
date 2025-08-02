@@ -1,0 +1,4 @@
+appName: navs-app1-php
+nameSpace: navs-dev
+svcName: navs-app1-php-svc
+imgName: navs161089/navs-webapp:v3
